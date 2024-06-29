@@ -1,0 +1,5 @@
+agentops==0.2.6
+python-dotenv
+git+https://github.com/AgentOps-AI/crewAI.git@main
+crewai[tools]
+langchain_openai
